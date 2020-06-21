@@ -1,12 +1,12 @@
 {
-    "name": "weweb_landing_workflow",
+    "name": "feature_animated_overlay",
     "type": "section",
     "wewebPublic": "true",
     "repository": {
         "type": "git",
         "url": "https://github.com/WeWeb-Public/weweb-landing-workflow.git"
     },
-    "version": "0.0.5",
+    "version": "0.0.1",
     "private": true,
     "scripts": {
         "build": "weweb-build",
