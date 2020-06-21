@@ -1,77 +1,27 @@
 {
   "name": "template",
   "background": {
-    "uniqueId": 4358430376,
+    "uniqueId": 5147046932,
     "wwVersion": 3,
     "content": {
-      "type": "ww-image",
       "data": {
-        "url": "https://cdn.weweb.app/designs/362/sections/bg.jpg?v=1589807000417",
-        "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
-        "alt": "",
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "pos": {},
-        "zoom": 1,
         "style": {
-          "borderRadius": 0,
-          "borderWidth": 0,
+          "boxShadow": { "b": 0, "c": "", "s": 0, "x": 0, "y": 0 },
           "borderColor": null,
           "borderStyle": null,
-          "overlay": null,
-          "filter": null,
-          "boxShadow": {
-            "x": 0,
-            "y": 0,
-            "b": 0,
-            "s": 0,
-            "c": ""
-          }
+          "borderWidth": 0,
+          "borderRadius": 0
         },
-        "animation": {
-          "duration": 0,
-          "delay": 0,
-          "fn": null,
-          "opacity": 1,
-          "scale": 1,
-          "translateX": 0,
-          "translateY": 0,
-          "rotate": 0
-        },
-        "imgSize": {
-          "w": 1920,
-          "h": 1080
-        },
-        "hover": {
-          "name": "",
-          "options": {}
-        },
-        "focusPoint": [
-          50,
-          50
-        ]
-      }
+        "wwObjects": [],
+        "backgroundColor": "transparent"
+      },
+      "type": "ww-color"
     },
-    "link": {
-      "type": "none",
-      "data": {}
-    },
+    "link": { "data": {}, "type": "none" },
     "ratio": -1,
     "paddings": {
-      "xs": {
-        "top": 0,
-        "left": 0,
-        "right": 0,
-        "bottom": 0
-      },
-      "md": {
-        "top": 0,
-        "left": 0,
-        "right": 0,
-        "bottom": 0
-      }
+      "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+      "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
     },
     "hidden": false,
     "tags": [],
@@ -83,14 +33,12 @@
     {
       "uniqueId": 3944716900,
       "title": {
-        "uniqueId": 767519621,
+        "uniqueId": 9268044097,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
-            "text": {
-              "fr": "Nouveau texte"
-            },
+            "text": { "fr": "Nouveau texte" },
             "tag": "div",
             "align": "",
             "font": "",
@@ -101,24 +49,11 @@
             "fontStyle": ""
           }
         },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -128,30 +63,14 @@
       },
       "contentList": [],
       "menuText": {
-        "uniqueId": 3571062276,
+        "uniqueId": 10936027672,
         "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {}
-        },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "content": { "type": "ww-text", "data": {} },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -166,13 +85,13 @@
     {
       "uniqueId": 12989506371,
       "title": {
-        "uniqueId": 192074552,
+        "uniqueId": 11398533054,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
-              "fr": "Nouveau texte",
+              "fr": "<p>SAMEDI 10 Octobre 2020</p>",
               "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>"
             },
             "tag": "div",
@@ -185,24 +104,11 @@
             "fontStyle": ""
           }
         },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -212,13 +118,13 @@
       },
       "contentList": [
         {
-          "uniqueId": 12024527769,
+          "uniqueId": 9146437119,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
             "data": {
               "text": {
-                "fr": "Nouveau texte",
+                "fr": "<p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">15h00 </strong><span class=\"ww-font-size-big\">- Accueil au domaine de Patras</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">15h30</strong><span class=\"ww-font-size-big\"> - Cérémonie laïque</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">16h30</strong><span class=\"ww-font-size-big\"> - Cocktail [Bar à vinyles]</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">19h30</strong><span class=\"ww-font-size-big\"> - Dîner</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">﻿22h30</strong><span class=\"ww-font-size-big\"> - Soirée</span></p>",
                 "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>"
               },
               "tag": "div",
@@ -231,122 +137,11 @@
               "fontStyle": ""
             }
           },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
+          "link": { "type": "none", "data": {} },
           "ratio": -1,
           "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 15
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        },
-        {
-          "uniqueId": 8858377933,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte",
-                "en": "<p style=\"text-align: center;\"><span style=\"color: rgb(224, 42, 77);\">Discover</span>[[wwObject=0]]</p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [
-                {
-                  "uniqueId": 8128279763,
-                  "wwVersion": 3,
-                  "content": {
-                    "type": "ww-icon",
-                    "data": {
-                      "icon": "fas fa-angle-right",
-                      "style": {
-                        "color": "#E02A4D",
-                        "backgroundColor": "#FFFFFF00",
-                        "gradient": {},
-                        "borderRadius": 50,
-                        "borderWidth": 0,
-                        "borderColor": "#000000",
-                        "borderStyle": "none",
-                        "boxShadow": {
-                          "x": 0,
-                          "y": 0,
-                          "b": 0,
-                          "s": 0,
-                          "c": ""
-                        },
-                        "size": 16,
-                        "fontSize": 16
-                      }
-                    }
-                  },
-                  "link": {
-                    "type": "none",
-                    "data": {}
-                  },
-                  "ratio": -1,
-                  "paddings": {
-                    "xs": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    },
-                    "md": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    }
-                  },
-                  "hidden": false,
-                  "tags": [],
-                  "children": {},
-                  "data": {},
-                  "anim": {}
-                }
-              ],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            }
+            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 }
           },
           "hidden": false,
           "tags": [],
@@ -356,13 +151,13 @@
         }
       ],
       "navigatorText": {
-        "uniqueId": 7478748277,
+        "uniqueId": 3668441661,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
-              "fr": "Nouveau texte",
+              "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-big\">Samedi</span></p>",
               "en": "<p style=\"text-align: center;\">Build</p>"
             },
             "tag": "div",
@@ -375,24 +170,11 @@
             "fontStyle": ""
           }
         },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -404,13 +186,13 @@
     {
       "uniqueId": 5738171256,
       "title": {
-        "uniqueId": 9889505171,
+        "uniqueId": 15028364726,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
-              "fr": "Nouveau texte",
+              "fr": "<p>Dimanche 11 Octobre 2020</p>",
               "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>"
             },
             "tag": "div",
@@ -423,24 +205,11 @@
             "fontStyle": ""
           }
         },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -450,13 +219,13 @@
       },
       "contentList": [
         {
-          "uniqueId": 11512196922,
+          "uniqueId": 12571488163,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
             "data": {
               "text": {
-                "fr": "Nouveau texte",
+                "fr": "<p style=\"line-height: 33px; text-align: center;\"><strong class=\"ww-font-size-big\">12h00 </strong><span class=\"ww-font-size-big\">- Brunch</span></p><p style=\"line-height: 33px; text-align: center;\"><span style=\"font-weight: 400;\">Possibilité de profiter des domaines jusque</span><strong> </strong><strong class=\"ww-font-size-big\">17h</strong></p>",
                 "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>"
               },
               "tag": "div",
@@ -469,122 +238,11 @@
               "fontStyle": ""
             }
           },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
+          "link": { "type": "none", "data": {} },
           "ratio": -1,
           "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 15
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        },
-        {
-          "uniqueId": 4048197735,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte",
-                "en": "<p style=\"text-align: center;\"><span style=\"color: rgb(224, 42, 77);\">Discover</span>[[wwObject=0]]</p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [
-                {
-                  "uniqueId": 13832579659,
-                  "wwVersion": 3,
-                  "content": {
-                    "type": "ww-icon",
-                    "data": {
-                      "icon": "fas fa-angle-right",
-                      "style": {
-                        "color": "#E02A4D",
-                        "backgroundColor": "#FFFFFF00",
-                        "gradient": {},
-                        "borderRadius": 50,
-                        "borderWidth": 0,
-                        "borderColor": "#000000",
-                        "borderStyle": "none",
-                        "boxShadow": {
-                          "x": 0,
-                          "y": 0,
-                          "b": 0,
-                          "s": 0,
-                          "c": ""
-                        },
-                        "size": 16,
-                        "fontSize": 16
-                      }
-                    }
-                  },
-                  "link": {
-                    "type": "none",
-                    "data": {}
-                  },
-                  "ratio": -1,
-                  "paddings": {
-                    "xs": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    },
-                    "md": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    }
-                  },
-                  "hidden": false,
-                  "tags": [],
-                  "children": {},
-                  "data": {},
-                  "anim": {}
-                }
-              ],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            }
+            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 }
           },
           "hidden": false,
           "tags": [],
@@ -594,13 +252,13 @@
         }
       ],
       "navigatorText": {
-        "uniqueId": 10497378370,
+        "uniqueId": 14988363816,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
-              "fr": "Nouveau texte",
+              "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-big\">Dimanche</span></p>",
               "en": "<p style=\"text-align: center;\">Connect</p>"
             },
             "tag": "div",
@@ -613,262 +271,11 @@
             "fontStyle": ""
           }
         },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
+        "link": { "type": "none", "data": {} },
         "ratio": -1,
         "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      }
-    },
-    {
-      "uniqueId": 4545177334,
-      "title": {
-        "uniqueId": 15077842024,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "Nouveau texte",
-              "en": "<p style=\"text-align: center;\">Deploy w higher productivity without compromising on the quality </p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "contentList": [
-        {
-          "uniqueId": 5588801886,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte",
-                "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 15
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        },
-        {
-          "uniqueId": 6148676919,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte",
-                "en": "<p style=\"text-align: center;\"><span style=\"color: rgb(224, 42, 77);\">Discover</span>[[wwObject=0]]</p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [
-                {
-                  "uniqueId": 3144834331,
-                  "wwVersion": 3,
-                  "content": {
-                    "type": "ww-icon",
-                    "data": {
-                      "icon": "fas fa-angle-right",
-                      "style": {
-                        "color": "#E02A4D",
-                        "backgroundColor": "#FFFFFF00",
-                        "gradient": {},
-                        "borderRadius": 50,
-                        "borderWidth": 0,
-                        "borderColor": "#000000",
-                        "borderStyle": "none",
-                        "boxShadow": {
-                          "x": 0,
-                          "y": 0,
-                          "b": 0,
-                          "s": 0,
-                          "c": ""
-                        },
-                        "size": 16,
-                        "fontSize": 16
-                      }
-                    }
-                  },
-                  "link": {
-                    "type": "none",
-                    "data": {}
-                  },
-                  "ratio": -1,
-                  "paddings": {
-                    "xs": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    },
-                    "md": {
-                      "top": 0,
-                      "left": 0,
-                      "right": 0,
-                      "bottom": 0
-                    }
-                  },
-                  "hidden": false,
-                  "tags": [],
-                  "children": {},
-                  "data": {},
-                  "anim": {}
-                }
-              ],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        }
-      ],
-      "navigatorText": {
-        "uniqueId": 8913006348,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "Nouveau texte",
-              "en": "<p style=\"text-align: center;\">Deploy</p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
         },
         "hidden": false,
         "tags": [],
@@ -877,5 +284,54 @@
         "anim": {}
       }
     }
-  ]
+  ],
+  "topWwObjs": [],
+  "overlayImage": {
+    "uniqueId": 12928587542,
+    "wwVersion": 3,
+    "content": {
+      "type": "ww-image",
+      "data": {
+        "url": "https://cdn.weweb.app/designs/390/sections/Liberté_lavande_couleur_(1).jpg?v=1592736811257",
+        "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
+        "alt": "",
+        "position": { "x": 0, "y": 0 },
+        "pos": {},
+        "zoom": 1,
+        "style": {
+          "borderRadius": 0,
+          "borderWidth": 0,
+          "borderColor": null,
+          "borderStyle": null,
+          "overlay": null,
+          "filter": null,
+          "boxShadow": { "x": 0, "y": 0, "b": 0, "s": 0, "c": "" }
+        },
+        "animation": {
+          "duration": 0,
+          "delay": 0,
+          "fn": null,
+          "opacity": 1,
+          "scale": 1,
+          "translateX": 0,
+          "translateY": 0,
+          "rotate": 0
+        },
+        "imgSize": { "w": 1920, "h": 1080 },
+        "hover": { "name": "", "options": {} },
+        "focusPoint": [50, 50]
+      }
+    },
+    "link": { "type": "none", "data": {} },
+    "ratio": -1,
+    "paddings": {
+      "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+      "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+    },
+    "hidden": false,
+    "tags": [],
+    "children": {},
+    "data": {},
+    "anim": {}
+  }
 }

@@ -1,31 +1,29 @@
 import anime from "animejs";
 
 const particlesOffSets = {
-    left: {
-        big: 0,
-        medium: 0,
-        small: 0,
-    },
-    right: {
-        big: 1030 ,
-        medium: 1220,
-        small: 1350,
-    },
-}
+  left: {
+    overlayImage: 0,
+  },
+  right: {
+    overlayImage: 1030,
+  },
+};
 
 const playAnimationTo = (position) => {
-    const offsets = particlesOffSets[position]
-    const timeline = anime.timeline({
-        duration: 2500,
-        easing: 'easeOutExpo'
-    })
-    Object.keys(offsets).forEach((key, idx) => {
-        timeline.add({
-            targets: `.particle.${key}`,
-            translateX: offsets[key],
-        }, 75 * idx)
-    })
-}
+  const offsets = particlesOffSets[position];
+  const timeline = anime.timeline({
+    duration: 2500,
+    easing: "easeOutExpo",
+  });
+  Object.keys(offsets).forEach((key, idx) => {
+    timeline.add(
+      {
+        targets: `.particle.${key}`,
+        translateX: offsets[key],
+      },
+      75 * idx
+    );
+  });
+};
 
-export default playAnimationTo
-
+export default playAnimationTo;
