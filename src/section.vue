@@ -267,7 +267,7 @@ export default {
 .workflow-section-content {
     position: relative;
     padding: 230px 0;
-    width: 768px;
+    width: 90%;
     margin: auto;
     display: flex;
     flex-direction: column;
