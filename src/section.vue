@@ -266,12 +266,15 @@ export default {
 
 .workflow-section-content {
     position: relative;
-    padding: 230px 0;
+    padding: 100px 0 230px 0;
     width: 90%;
     margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
+    @media (min-width: 768px) {
+        padding: 230px 0;
+    }
 }
 
 .workflow {
