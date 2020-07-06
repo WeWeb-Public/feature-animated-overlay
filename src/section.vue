@@ -337,6 +337,12 @@ export default {
   flex-direction: column;
   align-items: center;
   @media (min-width: 768px) {
+    padding: 140px 0;
+  }
+  @media (min-width: 1024px) {
+    padding: 140px 0;
+  }
+  @media (min-width: 1200px) {
     padding: 230px 0;
   }
 }
@@ -460,6 +466,12 @@ export default {
   left: 50%;
   width: 0;
   margin: auto;
+  @media (min-width: 1024px) {
+    top: 140px;
+  }
+  @media (min-width: 1200px) {
+    top: 250px;
+  }
 }
 
 .particle {
