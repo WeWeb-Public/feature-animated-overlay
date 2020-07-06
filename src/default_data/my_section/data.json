@@ -1,8 +1,505 @@
 {
   "name": "template",
+  "features": [
+    {
+      "title": {
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+          "data": {
+            "tag": "div",
+            "font": "",
+            "size": "",
+            "text": { "fr": "Nouveau texte" },
+            "align": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          },
+          "type": "ww-text"
+        },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 6580379461,
+        "wwVersion": 3
+      },
+      "menuText": {
+        "new": true,
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": { "data": {}, "type": "ww-text" },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 12877853612,
+        "wwVersion": 3
+      },
+      "uniqueId": 3944716900,
+      "contentList": []
+    }
+  ],
+  "topWwObjs": [
+    {
+      "anim": {},
+      "data": {},
+      "link": { "data": {}, "type": "none" },
+      "tags": [],
+      "ratio": -1,
+      "anchor": {
+        "lg": { "x": 0, "y": 210.6913426807315 },
+        "md": { "x": 0, "y": 234.4899902084192 },
+        "sm": { "x": 0, "y": 227.03373660257873 },
+        "xs": { "x": -0.5, "y": 80.86736205250804 }
+      },
+      "hidden": false,
+      "content": {
+        "data": {
+          "config": {
+            "lg": { "cols": null, "unit": "%", "height": 100, "ignore": true },
+            "md": { "cols": null, "unit": "%", "height": 0, "ignore": true },
+            "sm": { "cols": null, "unit": "%", "height": 0, "ignore": true },
+            "xs": {
+              "cols": [
+                {
+                  "align": "1",
+                  "order": 0,
+                  "width": "100",
+                  "offset": "0",
+                  "borders": [
+                    { "color": "#000000", "style": "solid", "width": 0 },
+                    { "color": "#000000", "style": "solid", "width": 0 },
+                    { "color": "#000000", "style": "solid", "width": 0 },
+                    { "color": "#000000", "style": "solid", "width": 0 }
+                  ]
+                }
+              ],
+              "unit": "%",
+              "height": 0,
+              "ignore": false
+            },
+            "count": 1,
+            "height": null
+          },
+          "columns": [
+            {
+              "wwObjects": [
+                {
+                  "anim": {},
+                  "data": {},
+                  "link": { "data": {}, "type": "none" },
+                  "tags": [],
+                  "ratio": -1,
+                  "hidden": false,
+                  "content": {
+                    "data": {
+                      "_q": { "fr": true },
+                      "tag": "div",
+                      "font": "",
+                      "size": "",
+                      "text": {
+                        "en": "<p style=\"text-align: left;\"><span class=\"ww-font-size-big\">The Sun</span></p>",
+                        "fr": "<p style=\"text-align: center;\"><span style=\"font-weight: 100; font-family: Montserrat, sans-serif;\" class=\"ww-font-size-verybig\">Programme</span></p>"
+                      },
+                      "align": "",
+                      "color": "",
+                      "classes": [],
+                      "children": [],
+                      "fontStyle": ""
+                    },
+                    "type": "ww-text"
+                  },
+                  "children": {},
+                  "paddings": {
+                    "md": { "top": 8, "left": 4, "right": 4, "bottom": 8 },
+                    "xs": { "top": 10, "left": 0, "right": 0, "bottom": 8 }
+                  },
+                  "uniqueId": 494105497,
+                  "wwVersion": 3
+                },
+                {
+                  "anim": {},
+                  "data": {},
+                  "link": { "data": {}, "type": "none" },
+                  "tags": [],
+                  "ratio": -1,
+                  "hidden": false,
+                  "content": {
+                    "data": {
+                      "align": "center",
+                      "justify": "center",
+                      "wwObjects": [
+                        {
+                          "new": false,
+                          "anim": {},
+                          "data": {},
+                          "link": { "data": {}, "type": "none" },
+                          "tags": [],
+                          "ratio": -1,
+                          "hidden": false,
+                          "content": {
+                            "data": {
+                              "alt": "",
+                              "pos": {},
+                              "url": "https://cdn.weweb.app/designs/390/sections/bar.svg?v=1593375647668",
+                              "zoom": 1,
+                              "hover": { "name": "", "options": {} },
+                              "style": {
+                                "filter": null,
+                                "overlay": null,
+                                "minWidth": "60",
+                                "boxShadow": {
+                                  "b": 0,
+                                  "c": "",
+                                  "s": 0,
+                                  "x": 0,
+                                  "y": 0
+                                },
+                                "borderColor": null,
+                                "borderStyle": null,
+                                "borderWidth": 0,
+                                "borderRadius": 0
+                              },
+                              "imgSize": { "h": 1080, "w": 1920 },
+                              "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
+                              "position": { "x": 0, "y": 0 },
+                              "animation": {
+                                "fn": null,
+                                "delay": 0,
+                                "scale": 1,
+                                "rotate": 0,
+                                "opacity": 1,
+                                "duration": 0,
+                                "translateX": 0,
+                                "translateY": 0
+                              },
+                              "focusPoint": [50, 50]
+                            },
+                            "type": "ww-image"
+                          },
+                          "children": {},
+                          "paddings": {
+                            "md": {
+                              "top": 0,
+                              "left": 0,
+                              "right": 0,
+                              "bottom": 0
+                            },
+                            "xs": {
+                              "top": 0,
+                              "left": 0,
+                              "right": 0,
+                              "bottom": 0
+                            }
+                          },
+                          "uniqueId": 4610658156,
+                          "wwVersion": 3
+                        }
+                      ]
+                    },
+                    "type": "ww-row"
+                  },
+                  "children": {},
+                  "paddings": {
+                    "md": { "top": 0, "left": "0", "right": "0", "bottom": 0 },
+                    "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+                  },
+                  "uniqueId": 11717211454,
+                  "wwVersion": 3
+                }
+              ],
+              "background": {
+                "link": { "data": {}, "type": "none" },
+                "content": {
+                  "data": {
+                    "style": {
+                      "boxShadow": { "b": 0, "c": "", "s": 0, "x": 0, "y": 0 },
+                      "borderColor": null,
+                      "borderStyle": null,
+                      "borderWidth": 0,
+                      "borderRadius": 0
+                    },
+                    "wwObjects": [],
+                    "backgroundColor": "transparent"
+                  },
+                  "type": "ww-color"
+                },
+                "paddings": {
+                  "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+                },
+                "uniqueId": 11903258369
+              }
+            }
+          ]
+        },
+        "type": "ww-columns"
+      },
+      "children": {},
+      "paddings": {
+        "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+        "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+      },
+      "uniqueId": 7017412565,
+      "wwVersion": 3
+    }
+  ],
+  "workflows": [
+    {
+      "title": {
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+          "data": {
+            "tag": "div",
+            "font": "",
+            "size": "",
+            "text": {
+              "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>",
+              "fr": "<p><strong style=\"font-family: Montserrat, sans-serif;\" class=\"ww-font-size-normal\">Samedi 10 octobre 2020</strong></p>"
+            },
+            "align": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          },
+          "type": "ww-text"
+        },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 7024569347,
+        "wwVersion": 3
+      },
+      "uniqueId": 12989506371,
+      "contentList": [
+        {
+          "anim": {},
+          "data": {},
+          "link": { "data": {}, "type": "none" },
+          "tags": [],
+          "ratio": -1,
+          "hidden": false,
+          "content": {
+            "data": {
+              "tag": "div",
+              "font": "",
+              "size": "",
+              "text": {
+                "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>",
+                "fr": "<p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">14h30 </strong><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">- Accueil et citronnade aux Domaines de Patras</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">15h00</strong><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\"> - Cérémonie</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">16h30</strong><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\"> - Cocktail</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">19h30</strong><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\"> - Dîner</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">﻿22h30</strong><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\"> - Soirée dansante</span></p><p style=\"text-align: center; line-height: 33px;\"><br></p><p style=\"text-align: center; line-height: 33px;\"><br></p>"
+              },
+              "align": "",
+              "color": "",
+              "classes": [],
+              "children": [],
+              "fontStyle": ""
+            },
+            "type": "ww-text"
+          },
+          "children": {},
+          "paddings": {
+            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 },
+            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+          },
+          "uniqueId": 6189829650,
+          "wwVersion": 3
+        },
+        {
+          "anim": {},
+          "data": {},
+          "link": { "data": {}, "type": "none" },
+          "tags": [],
+          "ratio": -1,
+          "hidden": false,
+          "content": {
+            "data": {
+              "_q": { "fr": true },
+              "tag": "div",
+              "font": "",
+              "size": "",
+              "text": {
+                "en": "<p style=\"text-align: center;\"><span class=\"ww-font-size-verybig\" style=\"font-weight: 400; color: rgb(66, 66, 66);\">SOLAR SYSTEM EXPLORATION</span></p>",
+                "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">Parking disponible sur le domaine </span></p><p style=\"text-align: center;\"><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">Pièces d'eau non surveillées</span></p>"
+              },
+              "align": "",
+              "color": "",
+              "classes": [],
+              "children": [],
+              "fontStyle": ""
+            },
+            "type": "ww-text"
+          },
+          "children": {},
+          "paddings": {
+            "md": { "top": 24, "left": 4, "right": 4, "bottom": 24 },
+            "xs": { "top": 62, "left": 0, "right": 0, "bottom": 24 }
+          },
+          "uniqueId": 12325950767,
+          "wwVersion": 3
+        }
+      ],
+      "navigatorText": {
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+          "data": {
+            "tag": "div",
+            "font": "",
+            "size": "",
+            "text": {
+              "en": "<p style=\"text-align: center;\">Build</p>",
+              "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">Samedi</span></p>"
+            },
+            "align": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          },
+          "type": "ww-text"
+        },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 6461141230,
+        "wwVersion": 3
+      }
+    },
+    {
+      "title": {
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+          "data": {
+            "tag": "div",
+            "font": "",
+            "size": "",
+            "text": {
+              "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>",
+              "fr": "<p><span style=\"font-family: Montserrat, sans-serif;\" class=\"ww-font-size-normal\">Dimanche 11 octobre 2020</span></p>"
+            },
+            "align": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          },
+          "type": "ww-text"
+        },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 121590619,
+        "wwVersion": 3
+      },
+      "uniqueId": 5738171256,
+      "contentList": [
+        {
+          "anim": {},
+          "data": {},
+          "link": { "data": {}, "type": "none" },
+          "tags": [],
+          "ratio": -1,
+          "hidden": false,
+          "content": {
+            "data": {
+              "tag": "div",
+              "font": "",
+              "size": "",
+              "text": {
+                "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>",
+                "fr": "<p style=\"line-height: 33px; text-align: center;\"><strong class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">De 11h à 17h - Brunch et détente aux Domaines de Patras</strong></p><p style=\"line-height: 20px; text-align: center;\"><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">Au programme : chaises longues, pétanque, molki et bavardages.</span></p><p style=\"line-height: 20px; text-align: center;\"><span style=\"font-family: Montserrat, sans-serif;\" class=\"ww-font-size-small\"><span class=\"ql-cursor\">﻿</span>Si le temps nous le permet, nous pourrons également profiter de la piscine !</span></p><p style=\"line-height: 20px; text-align: center;\"><span class=\"ww-font-size-small\" style=\"font-family: Montserrat, sans-serif;\">Pensez à prendre vos maillots et serviettes de bain.</span></p>"
+              },
+              "align": "",
+              "color": "",
+              "classes": [],
+              "children": [],
+              "fontStyle": ""
+            },
+            "type": "ww-text"
+          },
+          "children": {},
+          "paddings": {
+            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 },
+            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+          },
+          "uniqueId": 6186804736,
+          "wwVersion": 3
+        }
+      ],
+      "navigatorText": {
+        "anim": {},
+        "data": {},
+        "link": { "data": {}, "type": "none" },
+        "tags": [],
+        "ratio": -1,
+        "hidden": false,
+        "content": {
+          "data": {
+            "tag": "div",
+            "font": "",
+            "size": "",
+            "text": {
+              "en": "<p style=\"text-align: center;\">Connect</p>",
+              "fr": "<p style=\"text-align: center;\"><span style=\"font-family: Montserrat, sans-serif;\" class=\"ww-font-size-small\">Dimanche</span></p>"
+            },
+            "align": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          },
+          "type": "ww-text"
+        },
+        "children": {},
+        "paddings": {
+          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+        },
+        "uniqueId": 15873969594,
+        "wwVersion": 3
+      }
+    }
+  ],
   "background": {
-    "uniqueId": 5147046932,
-    "wwVersion": 3,
+    "anim": {},
+    "data": {},
+    "link": { "data": {}, "type": "none" },
+    "tags": [],
+    "ratio": -1,
+    "hidden": false,
     "content": {
       "data": {
         "style": {
@@ -17,321 +514,60 @@
       },
       "type": "ww-color"
     },
-    "link": { "data": {}, "type": "none" },
-    "ratio": -1,
+    "children": {},
     "paddings": {
       "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
       "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
     },
-    "hidden": false,
-    "tags": [],
-    "children": {},
-    "data": {},
-    "anim": {}
+    "uniqueId": 10691780072,
+    "wwVersion": 3
   },
-  "features": [
-    {
-      "uniqueId": 3944716900,
-      "title": {
-        "uniqueId": 9268044097,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": { "fr": "Nouveau texte" },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "contentList": [],
-      "menuText": {
-        "uniqueId": 10936027672,
-        "wwVersion": 3,
-        "content": { "type": "ww-text", "data": {} },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {},
-        "new": true
-      }
-    }
-  ],
-  "workflows": [
-    {
-      "uniqueId": 12989506371,
-      "title": {
-        "uniqueId": 11398533054,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "<p>SAMEDI 10 Octobre 2020</p>",
-              "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "contentList": [
-        {
-          "uniqueId": 9146437119,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "<p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">15h00 </strong><span class=\"ww-font-size-big\">- Accueil au domaine de Patras</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">15h30</strong><span class=\"ww-font-size-big\"> - Cérémonie laïque</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">16h30</strong><span class=\"ww-font-size-big\"> - Cocktail [Bar à vinyles]</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">19h30</strong><span class=\"ww-font-size-big\"> - Dîner</span></p><p style=\"text-align: center; line-height: 33px;\"><strong class=\"ww-font-size-big\">﻿22h30</strong><span class=\"ww-font-size-big\"> - Soirée</span></p>",
-                "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [],
-              "fontStyle": ""
-            }
-          },
-          "link": { "type": "none", "data": {} },
-          "ratio": -1,
-          "paddings": {
-            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        }
-      ],
-      "navigatorText": {
-        "uniqueId": 3668441661,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-big\">Samedi</span></p>",
-              "en": "<p style=\"text-align: center;\">Build</p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      }
-    },
-    {
-      "uniqueId": 5738171256,
-      "title": {
-        "uniqueId": 15028364726,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "<p>Dimanche 11 Octobre 2020</p>",
-              "en": "<p style=\"text-align: center;\">Build with higher productivity without compromising on the quality </p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "contentList": [
-        {
-          "uniqueId": 12571488163,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "<p style=\"line-height: 33px; text-align: center;\"><strong class=\"ww-font-size-big\">12h00 </strong><span class=\"ww-font-size-big\">- Brunch</span></p><p style=\"line-height: 33px; text-align: center;\"><span style=\"font-weight: 400;\">Possibilité de profiter des domaines jusque</span><strong> </strong><strong class=\"ww-font-size-big\">17h</strong></p>",
-                "en": "<p style=\"text-align: right;\"><span class=\"ww-font-size-big\">Discover how Allforweb agency doubled its margins and increased its NPS x3</span></p>"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [],
-              "fontStyle": ""
-            }
-          },
-          "link": { "type": "none", "data": {} },
-          "ratio": -1,
-          "paddings": {
-            "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-            "md": { "top": 0, "left": 0, "right": 0, "bottom": 15 }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        }
-      ],
-      "navigatorText": {
-        "uniqueId": 14988363816,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "<p style=\"text-align: center;\"><span class=\"ww-font-size-big\">Dimanche</span></p>",
-              "en": "<p style=\"text-align: center;\">Connect</p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": { "type": "none", "data": {} },
-        "ratio": -1,
-        "paddings": {
-          "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-          "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      }
-    }
-  ],
-  "topWwObjs": [],
   "overlayImage": {
-    "uniqueId": 12928587542,
-    "wwVersion": 3,
+    "anim": {},
+    "data": {},
+    "link": { "data": {}, "type": "none" },
+    "tags": [],
+    "ratio": -1,
+    "hidden": false,
     "content": {
-      "type": "ww-image",
       "data": {
-        "url": "https://cdn.weweb.app/designs/390/sections/Liberté_lavande_couleur_(1).jpg?v=1592736811257",
-        "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
         "alt": "",
-        "position": { "x": 0, "y": 0 },
         "pos": {},
-        "zoom": 1,
+        "url": "https://cdn.weweb.app/designs/390/sections/liberty-croped.png?v=1593378792070",
+        "zoom": 0.6666517857142857,
+        "hover": { "name": "", "options": {} },
         "style": {
-          "borderRadius": 0,
-          "borderWidth": 0,
+          "filter": null,
+          "overlay": null,
+          "boxShadow": { "b": 0, "c": "", "s": 0, "x": 0, "y": 0 },
           "borderColor": null,
           "borderStyle": null,
-          "overlay": null,
-          "filter": null,
-          "boxShadow": { "x": 0, "y": 0, "b": 0, "s": 0, "c": "" }
+          "borderWidth": 0,
+          "borderRadius": 0
         },
+        "imgSize": { "h": 1080, "w": 1920 },
+        "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
+        "position": { "x": 21.8576307506864, "y": 1.2857429853344968 },
         "animation": {
-          "duration": 0,
-          "delay": 0,
           "fn": null,
-          "opacity": 1,
+          "delay": 0,
           "scale": 1,
+          "rotate": 0,
+          "opacity": 1,
+          "duration": 0,
           "translateX": 0,
-          "translateY": 0,
-          "rotate": 0
+          "translateY": 0
         },
-        "imgSize": { "w": 1920, "h": 1080 },
-        "hover": { "name": "", "options": {} },
         "focusPoint": [50, 50]
-      }
+      },
+      "type": "ww-image"
     },
-    "link": { "type": "none", "data": {} },
-    "ratio": -1,
-    "paddings": {
-      "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
-      "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
-    },
-    "hidden": false,
-    "tags": [],
     "children": {},
-    "data": {},
-    "anim": {}
+    "paddings": {
+      "md": { "top": 0, "left": 0, "right": 0, "bottom": 0 },
+      "xs": { "top": 0, "left": 0, "right": 0, "bottom": 0 }
+    },
+    "uniqueId": 15019935304,
+    "wwVersion": 3
   }
 }

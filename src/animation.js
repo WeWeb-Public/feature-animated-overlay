@@ -5,7 +5,7 @@ const particlesOffSets = {
     overlayImage: 0,
   },
   right: {
-    overlayImage: 1030,
+    overlayImage: 800,
   },
 };
 

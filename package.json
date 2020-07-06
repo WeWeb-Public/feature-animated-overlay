@@ -1,29 +1,29 @@
 {
-    "name": "feature_animated_overlay",
-    "type": "section",
-    "wewebPublic": "true",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/WeWeb-Public/weweb-landing-workflow.git"
-    },
-    "version": "0.0.2",
-    "private": true,
-    "scripts": {
-        "build": "weweb-build",
-        "serve": "weweb-serve",
-        "upload": "weweb-upload",
-        "create-config": "weweb-config"
-    },
-    "dependencies": {
-        "animejs": "3.2.0",
-        "vue": "2.6.11"
-    },
-    "devDependencies": {
-        "weweb-client": "latest"
-    },
-    "browserslist": [
-        "> 1%",
-        "last 2 versions",
-        "not ie <= 8"
-    ]
+  "name": "feature_animated_overlay",
+  "type": "section",
+  "wewebPublic": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeWeb-Public/weweb-landing-workflow.git"
+  },
+  "version": "0.0.4",
+  "private": true,
+  "scripts": {
+    "build": "weweb-build",
+    "serve": "weweb-serve",
+    "upload": "weweb-upload",
+    "create-config": "weweb-config"
+  },
+  "dependencies": {
+    "animejs": "3.2.0",
+    "vue": "2.6.11"
+  },
+  "devDependencies": {
+    "weweb-client": "latest"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
 }
